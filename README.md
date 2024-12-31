@@ -1,6 +1,5 @@
 Here’s a comprehensive `README.md` file that includes everything related to your project, including installation, usage, contribution guidelines, and licensing:
 
-```markdown
 # Log Archive Tool
 
 A Python-based tool to compress log directories into `.tar.gz` archives and maintain a log of operations.
